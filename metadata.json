@@ -1,0 +1,7 @@
+{
+  "name": "BilsemOyun",
+  "description": "5-6 yaş çocuklar için robot rehberli, sesli, uzay temalı BİLSEM hazırlık ve yaratıcılık oyunu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
